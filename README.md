@@ -5,7 +5,7 @@
 
 Projeto construido no bootcamp HTML Web Developer da DIO.
 
-[Clique aqui para acessar](https://antonio21machado.github.io/nlw-esports/)
+[Clique aqui para acessar](https://antonio21machado.github.io/Pagina-Inicial-Instagram/)
 
 ## 🛠 Tecnologias
 
